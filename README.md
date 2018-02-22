@@ -1,4 +1,4 @@
-# LetsAndroid
+# Kotlin Basic
 Kotlin code Android examples:
 
 ### Branch : [Kotlin](https://github.com/LNAndroid/LetsAndroid/tree/kotlin)
