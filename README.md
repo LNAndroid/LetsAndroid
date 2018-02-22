@@ -4,7 +4,7 @@ Java Code Android examples:
 
 #### 1) [Wikitude-Gesture](https://github.com/LNAndroid/LetsAndroid/tree/android/Wikitude-Gesture)
 
-####Gestures
+Gestures
 
 The Wikitude SDK supports a number of gestures, which allow you to interact with augmentations.
 
