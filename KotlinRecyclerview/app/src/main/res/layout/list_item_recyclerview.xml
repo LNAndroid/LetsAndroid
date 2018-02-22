@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+
+    <TextView
+        android:id="@+id/textViewListItemOne"
+        style="@style/TextViewStyleNormal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/text_margin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewUp"
+        tools:text="This Text is Only for development purpose only" />
+
+    <TextView
+        android:id="@+id/textViewListItemTwo"
+        style="@style/TextViewStyleNormal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/text_margin"
+        android:maxLines="2"
+        android:visibility="gone"
+        android:text="@string/str_test_text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewListItemOne"
+        app:layout_goneMarginTop="0dp" />
+
+    <ImageView
+        android:id="@+id/imageViewUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/text_margin"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_up"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewAdd"
+        app:layout_constraintTop_toTopOf="@id/textViewListItemOne" />
+    <ImageView
+        android:id="@+id/imageViewDown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@null"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewListItemOne"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewAdd"
+        app:layout_constraintTop_toTopOf="@+id/textViewListItemOne"
+        android:src="@drawable/ic_down" />
+    <ImageView
+        android:id="@+id/imageViewAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/text_margin"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_add"
+
+        app:layout_constraintEnd_toStartOf="@+id/imageViewRemove"
+        app:layout_constraintBottom_toBottomOf="@id/textViewListItemOne"
+        app:layout_constraintTop_toTopOf="@id/textViewListItemOne" />
+
+    <ImageView
+        android:id="@+id/imageViewRemove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/text_margin"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_remove"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/textViewListItemOne"
+        app:layout_constraintTop_toTopOf="@id/textViewListItemOne" />
+</android.support.constraint.ConstraintLayout>
