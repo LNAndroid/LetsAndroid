@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/design-27.0.1.aar/b6d155ae9c79135efb9d3e6d03e3124c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/244ea79e0efeb877aa2027dc3a3765ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/670eef84988bd4caf283dfad5a56be0a/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/23271c3c12ced7943eb0a10aba084d3e/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/63d691bc3f8d731efa125d97bca86ba7/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/a5720e7240f57c9dd1de868277f83608/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d147a88017201241f9618dfc82a907b/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/eb9c7ac4614c04cfff88a8522bae5a21/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-fragment:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/ef3e8e71bab3db5768252563327b8c59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/5873b98f880879a9742983b6e4eb9dd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/96c67af76fe27caa87e86fd966ed82dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/83e69ebc3ee06b318590369285005337/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/fe27281485183c18363888db56bf3628/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/52e9836844f176fe6b5184f340962317/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/dd1f2642d94a26b000c89acfee3d8888/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/f71170f90d21b5ad8f150ebedc62496a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/188462a982e4d770cd921200c669c237/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/ef2b7246e3ac51c420b9380bb5b9e84f/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3279457d8b12452af2e2236e210c8a9c/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/3908e9afa373aee28ccf92bb709dd702/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/950f9a1fca4184572e066e5fca7e8813/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/684959c20edf45a6157a097316e131fe/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/670eef84988bd4caf283dfad5a56be0a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/670eef84988bd4caf283dfad5a56be0a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/23271c3c12ced7943eb0a10aba084d3e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/23271c3c12ced7943eb0a10aba084d3e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/63d691bc3f8d731efa125d97bca86ba7/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/63d691bc3f8d731efa125d97bca86ba7/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d147a88017201241f9618dfc82a907b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d147a88017201241f9618dfc82a907b/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/ef2b7246e3ac51c420b9380bb5b9e84f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/ef2b7246e3ac51c420b9380bb5b9e84f/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3279457d8b12452af2e2236e210c8a9c/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3279457d8b12452af2e2236e210c8a9c/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/3908e9afa373aee28ccf92bb709dd702/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/3908e9afa373aee28ccf92bb709dd702/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/950f9a1fca4184572e066e5fca7e8813/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/950f9a1fca4184572e066e5fca7e8813/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/684959c20edf45a6157a097316e131fe/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/684959c20edf45a6157a097316e131fe/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:14:9-45
+activity#com.example.letsnurture.basemasterkotlinproject.MainActivity
+ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/design-27.0.1.aar/b6d155ae9c79135efb9d3e6d03e3124c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/design-27.0.1.aar/b6d155ae9c79135efb9d3e6d03e3124c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/244ea79e0efeb877aa2027dc3a3765ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/244ea79e0efeb877aa2027dc3a3765ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/670eef84988bd4caf283dfad5a56be0a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/670eef84988bd4caf283dfad5a56be0a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/23271c3c12ced7943eb0a10aba084d3e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/23271c3c12ced7943eb0a10aba084d3e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/63d691bc3f8d731efa125d97bca86ba7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/63d691bc3f8d731efa125d97bca86ba7/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/a5720e7240f57c9dd1de868277f83608/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/a5720e7240f57c9dd1de868277f83608/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d147a88017201241f9618dfc82a907b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d147a88017201241f9618dfc82a907b/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/eb9c7ac4614c04cfff88a8522bae5a21/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/eb9c7ac4614c04cfff88a8522bae5a21/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/ef3e8e71bab3db5768252563327b8c59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/ef3e8e71bab3db5768252563327b8c59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/5873b98f880879a9742983b6e4eb9dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/5873b98f880879a9742983b6e4eb9dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/96c67af76fe27caa87e86fd966ed82dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/96c67af76fe27caa87e86fd966ed82dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/83e69ebc3ee06b318590369285005337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/83e69ebc3ee06b318590369285005337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/fe27281485183c18363888db56bf3628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/fe27281485183c18363888db56bf3628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/52e9836844f176fe6b5184f340962317/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/52e9836844f176fe6b5184f340962317/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/dd1f2642d94a26b000c89acfee3d8888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/dd1f2642d94a26b000c89acfee3d8888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/f71170f90d21b5ad8f150ebedc62496a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/f71170f90d21b5ad8f150ebedc62496a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/188462a982e4d770cd921200c669c237/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/188462a982e4d770cd921200c669c237/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/ef2b7246e3ac51c420b9380bb5b9e84f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/ef2b7246e3ac51c420b9380bb5b9e84f/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3279457d8b12452af2e2236e210c8a9c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3279457d8b12452af2e2236e210c8a9c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/3908e9afa373aee28ccf92bb709dd702/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/3908e9afa373aee28ccf92bb709dd702/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/950f9a1fca4184572e066e5fca7e8813/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/950f9a1fca4184572e066e5fca7e8813/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/684959c20edf45a6157a097316e131fe/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/684959c20edf45a6157a097316e131fe/AndroidManifest.xml:4:5-43
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/letsnurture/Documents/LNProjects/EXAMPLE/POC/KRAI_POC/BaseMasterKotlinProject/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/1707c9838da88ab359ab5e96b508fc3c/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/670eef84988bd4caf283dfad5a56be0a/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/670eef84988bd4caf283dfad5a56be0a/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/670eef84988bd4caf283dfad5a56be0a/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/670eef84988bd4caf283dfad5a56be0a/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/63d691bc3f8d731efa125d97bca86ba7/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/63d691bc3f8d731efa125d97bca86ba7/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/63d691bc3f8d731efa125d97bca86ba7/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3279457d8b12452af2e2236e210c8a9c/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3279457d8b12452af2e2236e210c8a9c/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/letsnurture/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3279457d8b12452af2e2236e210c8a9c/AndroidManifest.xml:26:13-58

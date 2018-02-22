@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.letsnurture.basemasterkotlinproject.test">
+
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="27" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="com.example.letsnurture.basemasterkotlinproject"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.example.letsnurture.basemasterkotlinproject"/>
+</manifest>
