@@ -22,3 +22,13 @@ If you are not yet familiar with how to create a vision based augmented reality 
 3D content within Wikitude can only be loaded from Wikitude 3D Format files (.wt3). This is a compressed binary format for describing 3D content which is optimized for fast loading and handling of 3D content on a mobile device. You still can use 3D models from your favorite 3D modeling tools (Autodesk® Maya® or Blender) but you'll need to convert them into the wt3 file format. The Wikitude 3D Encoder desktop application (Windows and Mac) encodes your 3D source file. The Encoder can handle Autodesk® FBX® files (.fbx)for encoding to .wt3 .
 
 For more details on how to convert your 3D content please see the Wikitude 3D Encoder section. In this example the .wt3 file has already been prepared and saved to assets/car.wt3.
+
+#### 3) [Augmented Reality - Multiple 3D Object](https://github.com/LetsNurtureGit/Android/tree/android/Augmented%20Reality%20-%20Multiple%203D%20Object)
+
+This example shows how to recognize and track multiple images simultaneously. Furthermore it shows how to use distance, translation and rotation between the tracked images.
+
+For a better understanding it is recommended to read the documentation of Image Recognition and 3D Models first.
+
+Please use the following image on this page to test the sample. It is recommended to print the image and cut out the different cards to see the interaction between the dinosaurs.
+
+Target Image - https://www.wikitude.com/external/doc/documentation/7.1/iosnative/targetimages.html
