@@ -10,3 +10,8 @@ Android examples for reusable purpose.
   ## 2) [Kotlin](https://github.com/LNAndroid/LetsAndroid/tree/kotlin)
   
   * For adding Kotlin code samples for Android development.
+  
+    
+  ## 2) [Flutter](https://github.com/LNAndroid/LetsAndroid/tree/flutter)
+  
+  * For adding Flutter code samples for Android and iOS development.
