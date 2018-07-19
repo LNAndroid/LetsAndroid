@@ -1,12 +1,8 @@
-# LetsAndroid
-Android examples for reusable purpose.
+# flutter_myapp
 
-* We have create seperate branch tree for seperate examples :
+A new Flutter application.
 
-  ## 1) [Android](https://github.com/LNAndroid/LetsAndroid/tree/android)
-   
-  * For adding Java code samples for Android development.
-  
-  ## 2) [Kotlin](https://github.com/LNAndroid/LetsAndroid/tree/kotlin)
-  
-  * For adding Kotlin code samples for Android development.
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
