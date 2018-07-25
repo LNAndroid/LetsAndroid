@@ -32,3 +32,9 @@ For a better understanding it is recommended to read the documentation of Image 
 Please use the following image on this page to test the sample. It is recommended to print the image and cut out the different cards to see the interaction between the dinosaurs.
 
 Target Image - https://www.wikitude.com/external/doc/documentation/7.1/iosnative/targetimages.html
+
+#### 3) [Face Detection]
+(https://github.com/LetsNurtureGit/Android/tree/android/FaceDetection)
+This demo shows to how to detect your face and add object above face and move/resize based on face changes.
+
+
