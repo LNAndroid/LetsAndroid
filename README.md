@@ -33,8 +33,7 @@ Please use the following image on this page to test the sample. It is recommende
 
 Target Image - https://www.wikitude.com/external/doc/documentation/7.1/iosnative/targetimages.html
 
-#### 3) [Face Detection]
-(https://github.com/LetsNurtureGit/Android/tree/android/FaceDetection)
+#### 4) [Face Detection](https://github.com/LetsNurtureGit/Android/tree/android/FaceDetection)
 This demo shows to how to detect your face and add object above face and move/resize based on face changes.
 
 
