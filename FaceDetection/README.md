@@ -1,3 +1,3 @@
-# FaceTrackerDemo
+# FaceDetection
 
 Android Face Detection
